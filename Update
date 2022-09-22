@@ -3,9 +3,10 @@ Fixed spikes damage
 Fixed tower kill aura
 Fixed tower next stage
 Fixed Warlord speed slower
-Fixed cutscene always bypassed
-Fixed MOL heal circle activate only not full HP
 Fixed MOL passive no barrier
-Fixed Warlord & MageofLight superspeed killaura
 Fixed 2-1 dungeon not complete
+Fixed cutscene always bypassed
 Fixed Tower 2 not target the tentacles
+Fixed Warlord & MageofLight superspeed killaura
+Fixed MOL heal circle activate only not full HP
+Fixed Dragoon skill 1-3 and Ultimate now applied
